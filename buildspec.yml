@@ -7,4 +7,4 @@ phases:
       - dotnet build
 artifacts:
   files:
-    - /app/out/*
+     - DockerWeb/bin/Release/netcoreapp2.0/*
