@@ -1,0 +1,10 @@
+C:\Users\Roman\dev\DockerWeb\DockerWeb\bin\Debug\netcoreapp2.0\DockerWeb.deps.json
+C:\Users\Roman\dev\DockerWeb\DockerWeb\bin\Debug\netcoreapp2.0\DockerWeb.runtimeconfig.json
+C:\Users\Roman\dev\DockerWeb\DockerWeb\bin\Debug\netcoreapp2.0\DockerWeb.runtimeconfig.dev.json
+C:\Users\Roman\dev\DockerWeb\DockerWeb\bin\Debug\netcoreapp2.0\DockerWeb.dll
+C:\Users\Roman\dev\DockerWeb\DockerWeb\bin\Debug\netcoreapp2.0\DockerWeb.pdb
+C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.csproj.CoreCompileInputs.cache
+C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.AssemblyInfoInputs.cache
+C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.AssemblyInfo.cs
+C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.dll
+C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.pdb
