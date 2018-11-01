@@ -8,3 +8,14 @@ C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.Assembl
 C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.AssemblyInfo.cs
 C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.dll
 C:\Users\Roman\dev\DockerWeb\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.pdb
+E:\aws\DockerWeb\bin\Debug\netcoreapp2.0\dockerweb.deps.json
+E:\aws\DockerWeb\bin\Debug\netcoreapp2.0\dockerweb.runtimeconfig.json
+E:\aws\DockerWeb\bin\Debug\netcoreapp2.0\dockerweb.runtimeconfig.dev.json
+E:\aws\DockerWeb\bin\Debug\netcoreapp2.0\dockerweb.dll
+E:\aws\DockerWeb\bin\Debug\netcoreapp2.0\dockerweb.pdb
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.csprojAssemblyReference.cache
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.csproj.CoreCompileInputs.cache
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.AssemblyInfoInputs.cache
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\DockerWeb.AssemblyInfo.cs
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\dockerweb.dll
+E:\aws\DockerWeb\obj\Debug\netcoreapp2.0\dockerweb.pdb
