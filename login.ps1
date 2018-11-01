@@ -1,2 +1,3 @@
-﻿cd "C:\Program Files\Amazon\AWSCLI\bin"
+﻿Set-ExecutionPolicy Unrestricted
+cd "C:\Program Files\Amazon\AWSCLI\bin"
 Invoke-Expression -Command (.\aws ecr get-login --no-include-email)
