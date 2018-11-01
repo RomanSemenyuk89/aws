@@ -1,0 +1,5 @@
+E:\aws\DockerWeb
+--output-path=obj\release\netcoreapp2.0\
+--application-name=dockerweb
+--content-root=E:\aws\DockerWeb
+--file=
